@@ -2,9 +2,9 @@
 ## JavaScript
 
 
-[Les01](https://32778.hosts1.ma-cloud.nl/f1m2js/les01/)
+[Les01 backgrounds-colors](https://32778.hosts1.ma-cloud.nl/f1m2js/les1-background-color/)
 
-[Les02](https://32778.hosts1.ma-cloud.nl/f1m2js/les02/)
+[Les02 boodschappen lijst](http://32778.hosts1.ma-cloud.nl/f1m2js/les2-boodschappen/)
 
 [Les03](https://32778.hosts1.ma-cloud.nl/f1m2js/les03/)
 

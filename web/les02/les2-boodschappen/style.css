@@ -23,6 +23,14 @@ h2{
     margin: 0 0 10px 0; /* top right bottom left */
 }
 
+.rood {
+    color: red;
+}
+
+.geel {
+    color: yellow;
+}
+
 h1{
     color:yellow;
 }
@@ -36,5 +44,7 @@ button{
 
 }
 
-
+section{
+    color:darkgreen;
+}
 
