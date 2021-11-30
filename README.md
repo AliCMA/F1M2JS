@@ -6,8 +6,8 @@
 
 - [Les02 boodschappen lijst](http://32778.hosts1.ma-cloud.nl/f1m2js/les2-boodschappen/)
 
-- [Les03](URL)
+- [Les03 <-- komt nog](URL)
 
-- [Les04](URL)
+- [Les04 <-- komt nog](URL)
 
-- [Les05](URL)
+- [Les05 <-- komt nog](URL)
