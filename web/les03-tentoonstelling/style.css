@@ -1,9 +1,40 @@
 body{
-    background-color: aliceblue;
+    background-color: red;
+    border: 50px solid white;
+  
+    
 }
 
 #container{
-    background-color: aqua;
+    background-color: red;
     width: 700px;
     margin: auto;
+    
+}
+
+
+h1{
+    color: yellow;
+    
+}
+
+h2{
+    color: yellow;
+    
+}
+
+
+
+img{
+    padding: 120px;
+    
+
+}
+
+button{
+    color: black;
+    background-color: yellow;
+    padding: 40px;
+    
+  
 }
