@@ -1,8 +1,6 @@
 body{
     background-color: red;
     border: 50px solid white;
-  
-    
 }
 
 #container{
@@ -38,3 +36,13 @@ button{
     
   
 }
+
+#text{
+    padding-right:50px;
+    padding-left:50px;
+}
+
+#myTekst{
+    color: lightblue;
+}
+
