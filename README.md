@@ -8,6 +8,6 @@
 
 - [Les03 Tentoonstelling](https://32778.hosts1.ma-cloud.nl/f1m2js/les03-tentoonstelling/)
 
-- [Les04 <-- komt nog](URL)
+- [Les04 <-- Seizoenen](https://32778.hosts1.ma-cloud.nl/f1m2js/les04-seizoenen/)
 
 - [Les05 <-- komt nog](URL)
