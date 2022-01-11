@@ -1,17 +1,37 @@
 body{
+
     background-color: aqua;
-}
-
-#container{
+ 
+ }
+ 
+ 
+ 
+ 
+ #container{
+ 
     background-color: aliceblue;
+ 
     width: 900px;
+ 
     height: 600px;
+ 
     margin: 50px auto auto auto;
+ 
     display: grid;
+ 
     grid-template-columns: auto auto;
+ 
     border: inset 2px gray;
-}
-
-#myInteraction{
+ 
+ }
+ 
+ 
+ 
+ 
+ #myInteraction{
+ 
     padding: 10px;
-}
+ 
+ 
+ 
+ }
