@@ -1,44 +1,30 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
-   <meta charset="UTF-8">
-
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-   <title>Silver bullet</title>
-
-   <link rel="stylesheet" href="style.css">
-
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Silver bullet</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
+    <div id="container">
+        <img id="myImage" src="img/0.jpg" height="600px" alt="foto sb">
+        <div id="myInteraction">
+            <div id="myTitle">hier komt de titel</div>
+            <input type="text" id="myInput" autocomplete="off">
+            <input type="button" value="voer in" onclick="getinput()">
+            <h3>Kies welke richting je op wilt</h3>
+            <nav>
+                <button id="KnopNoord" onclick="goDirection('Noord')">Noord</button>
+                <button id="KnopWest" onclick="goDirection('West')">West</button>
+                <button id="KnopOost" onclick="goDirection('Oost')">Oost</button>
+                <button id="KnopZuid" onclick="goDirection('Zuid')">Zuid</button>
+            </nav>
+            <img src="img/map_compass.png" id="mapImage"/>
+        </div>
 
-   <div id="container">
-
-       <img id="myImage" src="img/0.jpg" height="600px" alt="foto sb">
-
-       <div id="myInteraction">
-
-           <div id="myTitle">hier komt de titel</div>
-
-           <input type="text" id="myInput" autocomplete="off">
-
-           <input type="button" value="voer in" onclick="getinput()">
-
-       </div>
-
-
-
-
-   </div>
-
-   <script src="script.js"></script>
-
+    </div>
+    <script src="script.js"></script>
 </body>
-
 </html>
